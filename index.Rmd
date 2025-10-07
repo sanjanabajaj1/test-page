@@ -1,0 +1,10 @@
+---
+title: "homepage"
+author: "Sanjana Bajaj"
+date: "2025-10-07"
+output: html_document
+---
+
+Welcome to my page!
+
+Look at some analysis [here](newpage.html)
